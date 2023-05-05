@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For GrowattInterface
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+GrowattInterface	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin   KEYWORD2
+updateBuffer    KEYWORD2
+getSolarPower   KEYWORD2
+getPv1Voltage   KEYWORD2
+getPv1Current   KEYWORD2
+getPv1Power KEYWORD2
+getOutpuPower   KEYWORD2
+getGridFrequency    KEYWORD2
+getGridVoltage  KEYWORD2
+getEnergyToday  KEYWORD2
+getEnergyTotal  KEYWORD2
+getTotalWorktime    KEYWORD2
+getStatus   KEYWORD2
+setMbTimeout    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
